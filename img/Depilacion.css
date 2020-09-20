@@ -1,0 +1,52 @@
+
+		
+
+
+			
+img.foto1 { 
+         padding: 10px; 
+		 margin: 10px; 
+		 border: 2px solid black; 
+		 float: left; 
+		 width: 250px; }
+img.foto2 { 
+         padding: 10px; 
+		 margin: 10px; 
+		 border: 2px solid black; 
+		 float: right; 
+		 width: 250px; }
+
+ul.historia{
+			position: absolute;
+			top: 37em;
+			right:4em;
+			font-family: Calibri,Times new Roman;
+			color:black;
+			}
+		ul.historia imagen{
+		    position:right;
+		}
+
+ul.mision{
+			position: absolute;
+			top: 63em;
+			right:4em;
+			font-family: Calibri,Times new Roman;
+			color:black;
+            }      
+
+             
+		ul.mision imagen{
+		    position:left;
+        }
+		
+ul.vision{
+			position: absolute;
+			top: 90em;
+			right:4em;
+			font-family: Calibri,Times new Roman;
+			color:black;
+}
+        ul.vision imagen{
+			position:right:
+		}

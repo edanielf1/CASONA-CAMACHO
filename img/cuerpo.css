@@ -1,0 +1,30 @@
+<body> 
+    ul.historia {
+	display: inline;
+    width: 50%;
+    margin: 20px auto;
+    background-color: #449;
+    color: #fff;
+    padding: 15px;
+      }
+
+    ul.historia img.izquierda {
+    float: left;
+    margin-right: 15px;
+	
+      }
+
+    div.reset {
+	clear: both;
+     }
+     
+	ul.mision img.derecha {
+    float: right;
+    margin-right: 15px;
+      }
+
+    div.reset {
+	clear: both;
+     }
+	 
+	

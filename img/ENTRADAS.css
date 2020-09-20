@@ -1,0 +1,16 @@
+
+
+		 
+ img.foto1 { 
+         position:relative;
+         padding: 30px; 
+		 margin: 10px; 
+		 border: 2px solid black; 
+		 float: left; 
+		 width: 400px; }
+
+ul.text2 { 
+         position:relative;
+         padding: 20px; 
+		 margin: 10px; 
+		 float: right; } 

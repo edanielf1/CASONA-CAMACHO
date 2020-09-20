@@ -1,0 +1,20 @@
+body {
+	      padding-left: 12em;
+		  font-family: Calibri, Times new Roman;
+		  color: black;
+		 }
+		 
+		 ul.menu {
+		    list-style-type: none;
+		    position: absolute;
+			color: blue;
+			top: 10em;
+			left:1em;
+			width:20m;
+			
+			  }
+		 ul.LOG0{
+			position: abdolute;
+			top: 1em;
+			left:1em;
+			  }

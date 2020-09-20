@@ -1,0 +1,91 @@
+header{
+		padding: 0;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		z-index: 2;
+		background-color: lightpink;
+}
+
+header .menu{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		}
+header .menu .logo{
+		width: 150px;
+		left: 2em;
+		}
+		
+header .menu nav a{
+		color:  black;
+		font-family: beloved teacher;
+		text-decoration: none;
+		margin: 0 15px;
+	}
+	
+
+body{
+	font-family: Kwacyland;
+	color: black;
+}
+
+ul.Bienvenida{
+			position: relative;
+			top: 6em;
+			left:14.5em;
+}
+ul.imagen1{
+			position: relative;
+			top: -12.8em;
+			right:-38em;
+			height:13.2em
+}
+ul.videohilo{
+			position: relative;
+			top: -5em;
+			left:-1em;
+			height:-1em
+			
+}
+ul.Textohilo{
+			position: absolute;
+			top: 30em;
+			left:24em;
+			width:33em;
+			font-size: 22px;
+			}
+ul.Titulohilo{
+			position: relative;
+			top: -32em;
+			left: 40em;
+			width:30em;
+			font-family: Beloved teacher;
+			color: black;
+			
+}
+ul.videogoma{
+			position: relative;
+			top: -5em;
+			left:-1em;
+			height:-1em;
+}
+ul.Textogoma{
+			position: absolute;
+			top: 58em;
+			left:25em;
+			width:33em;
+			font-size: 22px;
+			
+}
+
+ul.Titulogoma{
+			position: relative;
+			top: -32em;
+			left: 40em;
+			width:35em;
+			font-family: Beloved teacher;;
+			color: black;
+			
+}

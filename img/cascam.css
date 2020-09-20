@@ -1,0 +1,88 @@
+ul.menu {
+        padding:0;
+		display: block;
+          }
+ ul.menu li{
+        display: inline;
+          }   
+        ul.menu li{
+		color: black;
+	    background: white;
+		top: 2em;
+		padding: 15px;
+		margin-top:3em;
+		margin: 5em 3em 5em 5.4em;
+           }  
+		ul.menu li:hover {
+        background-color: SILVER;
+        padding-bottom: SILVER;
+           }    
+		   
+
+
+ul.text11 { 
+         position:relative;
+         padding: 10px; 
+		 margin: 10px;  
+		 float: left;
+         vertical-align: middle;		 }
+img.foto22 { 
+         position:relative;
+         top: 2em;
+		 left: 2em;
+		 }
+		 
+ul.text22 { 
+         position:relative;
+         padding: 10px; 
+		 margin: 10px;  
+		 float: right;
+         vertical-align: middle;		 }		 
+		 
+img.foto11 { 
+         position:relative;
+         padding: 10px;  
+		 float: left; 
+            }
+
+      
+		   
+img.bienv{
+	     position:relative;
+         padding: 10px;  
+		 float: center; }
+		 
+ul.contacto{
+			position: relative;
+			top: 24em;
+			left: 3em;
+			font-family: comic sans ms;
+			width: 50em;
+}
+ul.text { 
+         position:relative;
+         padding: 10px; 
+		 margin: 10px;  
+		 float: center;
+         vertical-align: middle;		 }
+		 
+ul.foto { 
+         position:absolute;
+         left: 23em;
+		 top: 23em;
+		 width: 60em;
+}
+
+ul.wa{
+position: absolute;
+top: 40em;
+left: 5em;
+}
+
+
+ul.fb{
+position: absolute;
+top: 40em;
+right: 5em;
+}
+
